@@ -18,6 +18,9 @@
     "type": "git",
     "url": "git+https://github.com/knledg/react-blur-admin.git"
   },
+  "engines": {
+    "node": "12.13.0"
+  },
   "keywords": [
     "react",
     "blur admin"
